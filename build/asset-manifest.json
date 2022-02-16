@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9d44a01.chunk.css",
+    "main.js": "/static/js/main.406ff9f5.chunk.js",
+    "main.js.map": "/static/js/main.406ff9f5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.99167e49.js",
+    "runtime-main.js.map": "/static/js/runtime-main.99167e49.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.10967f7f.chunk.js": "/static/js/2.10967f7f.chunk.js",
+    "static/js/2.10967f7f.chunk.js.map": "/static/js/2.10967f7f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.c9d44a01.chunk.css.map": "/static/css/main.c9d44a01.chunk.css.map",
+    "static/js/2.10967f7f.chunk.js.LICENSE.txt": "/static/js/2.10967f7f.chunk.js.LICENSE.txt",
+    "static/media/Githubresp.1ff33952.png": "/static/media/Githubresp.1ff33952.png",
+    "static/media/Loancalc.f7de4743.png": "/static/media/Loancalc.f7de4743.png",
+    "static/media/Pig-Game.c0379191.png": "/static/media/Pig-Game.c0379191.png",
+    "static/media/VideoHttp.1d62dc36.mp4": "/static/media/VideoHttp.1d62dc36.mp4",
+    "static/media/errorcoding.ddee1c98.mp4": "/static/media/errorcoding.ddee1c98.mp4",
+    "static/media/fetchapi.5e8510ff.mp4": "/static/media/fetchapi.5e8510ff.mp4",
+    "static/media/resumeupdated.3cf0b46f.png": "/static/media/resumeupdated.3cf0b46f.png",
+    "static/media/unnamed.52bed1e2.jpg": "/static/media/unnamed.52bed1e2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99167e49.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.10967f7f.chunk.js",
+    "static/css/main.c9d44a01.chunk.css",
+    "static/js/main.406ff9f5.chunk.js"
+  ]
+}
